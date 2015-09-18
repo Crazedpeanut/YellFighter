@@ -1,0 +1,528 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           Offload State
+
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:3305           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:7790           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:8008           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:9264           0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:11300          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:17500          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:27036          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:30175          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:47984          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:47989          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49156          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49183          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49184          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:49232          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:54999          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:56280          0.0.0.0:0              LISTENING       InHost      
+  TCP    0.0.0.0:57621          0.0.0.0:0              LISTENING       InHost      
+  TCP    10.0.1.116:139         0.0.0.0:0              LISTENING       InHost      
+  TCP    10.0.1.116:5556        0.0.0.0:0              LISTENING       InHost      
+  TCP    10.0.1.116:49329       54.230.247.29:443      CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:49578       23.21.130.154:6861     ESTABLISHED     InHost      
+  TCP    10.0.1.116:49580       23.23.241.76:6861      ESTABLISHED     InHost      
+  TCP    10.0.1.116:49890       103.10.125.16:27017    ESTABLISHED     InHost      
+  TCP    10.0.1.116:49899       64.233.187.125:5222    ESTABLISHED     InHost      
+  TCP    10.0.1.116:51224       54.230.247.116:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:51407       107.20.241.212:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:51978       179.60.193.3:443       ESTABLISHED     InHost      
+  TCP    10.0.1.116:55259       108.160.163.100:443    ESTABLISHED     InHost      
+  TCP    10.0.1.116:55872       216.58.220.138:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:55873       216.58.220.141:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:55889       108.160.172.225:443    CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:56044       54.230.247.29:443      CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:57000       108.160.172.193:443    ESTABLISHED     InHost      
+  TCP    10.0.1.116:57393       54.230.247.116:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:57831       107.20.249.198:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:58487       54.83.199.34:443       CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:58496       216.58.220.142:443     TIME_WAIT       InHost      
+  TCP    10.0.1.116:58515       54.231.80.106:80       CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:58518       54.241.150.231:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:58596       216.58.220.106:443     ESTABLISHED     InHost      
+  TCP    10.0.1.116:58631       216.58.220.142:443     ESTABLISHED     InHost      
+  TCP    10.0.1.116:58639       64.233.187.141:443     ESTABLISHED     InHost      
+  TCP    10.0.1.116:59540       194.68.29.50:4070      ESTABLISHED     InHost      
+  TCP    10.0.1.116:60745       54.83.63.236:443       CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:61483       111.221.29.120:443     ESTABLISHED     InHost      
+  TCP    10.0.1.116:61489       54.243.130.173:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:61673       54.230.244.177:443     CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:61771       64.233.188.188:5228    ESTABLISHED     InHost      
+  TCP    10.0.1.116:61993       54.230.247.29:443      CLOSE_WAIT      InHost      
+  TCP    10.0.1.116:65023       54.175.240.62:443      ESTABLISHED     InHost      
+  TCP    10.0.1.116:65078       52.3.161.207:443       ESTABLISHED     InHost      
+  TCP    127.0.0.1:4370         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:4370         127.0.0.1:58821        ESTABLISHED     InHost      
+  TCP    127.0.0.1:4371         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:4380         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:4381         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:4381         127.0.0.1:58655        TIME_WAIT       InHost      
+  TCP    127.0.0.1:4381         127.0.0.1:58727        TIME_WAIT       InHost      
+  TCP    127.0.0.1:4381         127.0.0.1:58748        TIME_WAIT       InHost      
+  TCP    127.0.0.1:4381         127.0.0.1:58822        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:49157        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:49158        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:49233        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:49320        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:49321        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:49323        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:61647        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5354         127.0.0.1:61648        ESTABLISHED     InHost      
+  TCP    127.0.0.1:5556         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:5939         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:6864         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:6880         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58707        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58708        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58709        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58710        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58711        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58712        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58713        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58714        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58715        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58716        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58717        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58718        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58719        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58720        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58721        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58722        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58723        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58724        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58725        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58736        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58737        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58738        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58739        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58740        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58741        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58742        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58743        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58744        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58745        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58746        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58757        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58760        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58761        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58762        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58763        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58764        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58765        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58766        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58767        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58768        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58769        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58770        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58771        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58772        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58773        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58774        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58775        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58776        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58777        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58778        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58779        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58780        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58781        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58782        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58783        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58784        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58785        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58786        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58787        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58788        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58789        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58790        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58791        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58792        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58793        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58794        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58795        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58796        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58797        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58798        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58799        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58801        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58802        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58803        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58804        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58805        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58806        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58807        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58808        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58809        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58810        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58811        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58812        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58813        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58814        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58815        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58816        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58817        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58818        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58819        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58820        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58831        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58832        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58833        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58834        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58835        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58836        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58837        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58838        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58839        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58840        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58841        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58842        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58843        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58844        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58845        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58846        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58847        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58848        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58849        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58850        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58851        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58852        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58853        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58854        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58855        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58856        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58857        TIME_WAIT       InHost      
+  TCP    127.0.0.1:6880         127.0.0.1:58858        TIME_WAIT       InHost      
+  TCP    127.0.0.1:9990         0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:17600        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:17603        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:19872        127.0.0.1:49326        ESTABLISHED     InHost      
+  TCP    127.0.0.1:23401        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:24801        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:27015        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:27015        127.0.0.1:49331        ESTABLISHED     InHost      
+  TCP    127.0.0.1:27015        127.0.0.1:61646        ESTABLISHED     InHost      
+  TCP    127.0.0.1:41443        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:49157        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:49158        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:49160        127.0.0.1:49161        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49161        127.0.0.1:49160        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49162        127.0.0.1:49163        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49163        127.0.0.1:49162        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49164        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:49214        127.0.0.1:65001        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49233        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:49240        127.0.0.1:49241        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49241        127.0.0.1:49240        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49320        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:49321        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:49323        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:49326        127.0.0.1:19872        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49331        127.0.0.1:27015        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49341        127.0.0.1:49342        ESTABLISHED     InHost      
+  TCP    127.0.0.1:49342        127.0.0.1:49341        ESTABLISHED     InHost      
+  TCP    127.0.0.1:58654        127.0.0.1:4370         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58707        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58708        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58709        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58711        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58712        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58713        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58714        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58716        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58717        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58718        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58719        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58720        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58721        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58722        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58723        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58724        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58725        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58726        127.0.0.1:4370         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58736        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58737        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58738        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58739        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58740        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58741        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58742        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58743        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58744        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58745        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58746        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58747        127.0.0.1:4370         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58757        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58761        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58762        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58763        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58764        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58765        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58766        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58767        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58768        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58769        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58770        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58772        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58773        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58774        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58775        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58776        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58777        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58778        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58779        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58780        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58781        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58782        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58783        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58784        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58785        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58786        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58787        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58788        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58789        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58790        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58791        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58792        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58793        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58794        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58795        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58796        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58797        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58798        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58799        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58801        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58802        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58803        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58804        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58805        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58807        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58808        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58809        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58810        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58811        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58812        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58813        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58814        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58815        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58816        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58817        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58818        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58819        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58820        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58821        127.0.0.1:4370         ESTABLISHED     InHost      
+  TCP    127.0.0.1:58822        127.0.0.1:4381         ESTABLISHED     InHost      
+  TCP    127.0.0.1:58831        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58832        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58833        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58834        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58835        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58836        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58837        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58838        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58839        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58840        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58841        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58842        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58843        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58844        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58845        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58846        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58847        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58848        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58849        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58850        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58851        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58852        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58853        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58854        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58855        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58856        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58857        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:58858        127.0.0.1:6880         TIME_WAIT       InHost      
+  TCP    127.0.0.1:61646        127.0.0.1:27015        ESTABLISHED     InHost      
+  TCP    127.0.0.1:61647        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:61648        127.0.0.1:5354         ESTABLISHED     InHost      
+  TCP    127.0.0.1:61651        127.0.0.1:61652        ESTABLISHED     InHost      
+  TCP    127.0.0.1:61652        127.0.0.1:61651        ESTABLISHED     InHost      
+  TCP    127.0.0.1:62514        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:65000        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:65001        0.0.0.0:0              LISTENING       InHost      
+  TCP    127.0.0.1:65001        127.0.0.1:49214        ESTABLISHED     InHost      
+  TCP    169.254.81.46:139      0.0.0.0:0              LISTENING       InHost      
+  TCP    169.254.81.46:5556     0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING       InHost      
+  TCP    192.168.56.1:5556      0.0.0.0:0              LISTENING       InHost      
+  TCP    [::]:80                [::]:0                 LISTENING       InHost      
+  TCP    [::]:135               [::]:0                 LISTENING       InHost      
+  TCP    [::]:445               [::]:0                 LISTENING       InHost      
+  TCP    [::]:3305              [::]:0                 LISTENING       InHost      
+  TCP    [::]:3306              [::]:0                 LISTENING       InHost      
+  TCP    [::]:3389              [::]:0                 LISTENING       InHost      
+  TCP    [::]:8008              [::]:0                 LISTENING       InHost      
+  TCP    [::]:49152             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49153             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49154             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49155             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49156             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49183             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49184             [::]:0                 LISTENING       InHost      
+  TCP    [::]:49232             [::]:0                 LISTENING       InHost      
+  TCP    [::1]:3306             [::1]:49217            ESTABLISHED     InHost      
+  TCP    [::1]:3306             [::1]:64886            ESTABLISHED     InHost      
+  TCP    [::1]:3306             [::1]:64887            ESTABLISHED     InHost      
+  TCP    [::1]:3306             [::1]:64888            ESTABLISHED     InHost      
+  TCP    [::1]:49217            [::1]:3306             ESTABLISHED     InHost      
+  TCP    [::1]:49522            [::]:0                 LISTENING       InHost      
+  TCP    [::1]:64886            [::1]:3306             ESTABLISHED     InHost      
+  TCP    [::1]:64887            [::1]:3306             ESTABLISHED     InHost      
+  TCP    [::1]:64888            [::1]:3306             ESTABLISHED     InHost      
+  UDP    0.0.0.0:123            *:*                                                
+  UDP    0.0.0.0:500            *:*                                                
+  UDP    0.0.0.0:3389           *:*                                                
+  UDP    0.0.0.0:4500           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5353           *:*                                                
+  UDP    0.0.0.0:5355           *:*                                                
+  UDP    0.0.0.0:17500          *:*                                                
+  UDP    0.0.0.0:20000          *:*                                                
+  UDP    0.0.0.0:20001          *:*                                                
+  UDP    0.0.0.0:26000          *:*                                                
+  UDP    0.0.0.0:27036          *:*                                                
+  UDP    0.0.0.0:30175          *:*                                                
+  UDP    0.0.0.0:34997          *:*                                                
+  UDP    0.0.0.0:34997          *:*                                                
+  UDP    0.0.0.0:34997          *:*                                                
+  UDP    0.0.0.0:34997          *:*                                                
+  UDP    0.0.0.0:34997          *:*                                                
+  UDP    0.0.0.0:34997          *:*                                                
+  UDP    0.0.0.0:50414          *:*                                                
+  UDP    0.0.0.0:50967          *:*                                                
+  UDP    0.0.0.0:51592          *:*                                                
+  UDP    0.0.0.0:52039          *:*                                                
+  UDP    0.0.0.0:52434          *:*                                                
+  UDP    0.0.0.0:53808          *:*                                                
+  UDP    0.0.0.0:53819          *:*                                                
+  UDP    0.0.0.0:54447          *:*                                                
+  UDP    0.0.0.0:54997          *:*                                                
+  UDP    0.0.0.0:54997          *:*                                                
+  UDP    0.0.0.0:54997          *:*                                                
+  UDP    0.0.0.0:54997          *:*                                                
+  UDP    0.0.0.0:54997          *:*                                                
+  UDP    0.0.0.0:54997          *:*                                                
+  UDP    0.0.0.0:57548          *:*                                                
+  UDP    0.0.0.0:57621          *:*                                                
+  UDP    0.0.0.0:57647          *:*                                                
+  UDP    0.0.0.0:57743          *:*                                                
+  UDP    0.0.0.0:57914          *:*                                                
+  UDP    0.0.0.0:57915          *:*                                                
+  UDP    0.0.0.0:57997          *:*                                                
+  UDP    0.0.0.0:57997          *:*                                                
+  UDP    0.0.0.0:57997          *:*                                                
+  UDP    0.0.0.0:57997          *:*                                                
+  UDP    0.0.0.0:57997          *:*                                                
+  UDP    0.0.0.0:58997          *:*                                                
+  UDP    0.0.0.0:58997          *:*                                                
+  UDP    0.0.0.0:58997          *:*                                                
+  UDP    0.0.0.0:58997          *:*                                                
+  UDP    0.0.0.0:58997          *:*                                                
+  UDP    0.0.0.0:59554          *:*                                                
+  UDP    0.0.0.0:60057          *:*                                                
+  UDP    0.0.0.0:61567          *:*                                                
+  UDP    0.0.0.0:61589          *:*                                                
+  UDP    0.0.0.0:61621          *:*                                                
+  UDP    0.0.0.0:62335          *:*                                                
+  UDP    0.0.0.0:62865          *:*                                                
+  UDP    0.0.0.0:62880          *:*                                                
+  UDP    0.0.0.0:64317          *:*                                                
+  UDP    10.0.1.116:137         *:*                                                
+  UDP    10.0.1.116:138         *:*                                                
+  UDP    10.0.1.116:1900        *:*                                                
+  UDP    10.0.1.116:5353        *:*                                                
+  UDP    10.0.1.116:5353        *:*                                                
+  UDP    10.0.1.116:5353        *:*                                                
+  UDP    10.0.1.116:51742       *:*                                                
+  UDP    10.0.1.116:53514       *:*                                                
+  UDP    10.0.1.116:53516       *:*                                                
+  UDP    10.0.1.116:54045       *:*                                                
+  UDP    127.0.0.1:1900         *:*                                                
+  UDP    127.0.0.1:44301        *:*                                                
+  UDP    127.0.0.1:48200        *:*                                                
+  UDP    127.0.0.1:48201        *:*                                                
+  UDP    127.0.0.1:48202        *:*                                                
+  UDP    127.0.0.1:50862        *:*                                                
+  UDP    127.0.0.1:50863        *:*                                                
+  UDP    127.0.0.1:50864        *:*                                                
+  UDP    127.0.0.1:51745        *:*                                                
+  UDP    127.0.0.1:52679        *:*                                                
+  UDP    127.0.0.1:52680        *:*                                                
+  UDP    127.0.0.1:53817        *:*                                                
+  UDP    127.0.0.1:53818        *:*                                                
+  UDP    127.0.0.1:60952        *:*                                                
+  UDP    127.0.0.1:60953        *:*                                                
+  UDP    127.0.0.1:61620        *:*                                                
+  UDP    127.0.0.1:62514        *:*                                                
+  UDP    127.0.0.1:62785        *:*                                                
+  UDP    127.0.0.1:65000        *:*                                                
+  UDP    169.254.81.46:137      *:*                                                
+  UDP    169.254.81.46:138      *:*                                                
+  UDP    169.254.81.46:1900     *:*                                                
+  UDP    169.254.81.46:5353     *:*                                                
+  UDP    169.254.81.46:5353     *:*                                                
+  UDP    169.254.81.46:51743    *:*                                                
+  UDP    169.254.81.46:54045    *:*                                                
+  UDP    192.168.56.1:137       *:*                                                
+  UDP    192.168.56.1:138       *:*                                                
+  UDP    192.168.56.1:1900      *:*                                                
+  UDP    192.168.56.1:5353      *:*                                                
+  UDP    192.168.56.1:5353      *:*                                                
+  UDP    192.168.56.1:5353      *:*                                                
+  UDP    192.168.56.1:51744     *:*                                                
+  UDP    192.168.56.1:54045     *:*                                                
+  UDP    [::]:123               *:*                                                
+  UDP    [::]:500               *:*                                                
+  UDP    [::]:3389              *:*                                                
+  UDP    [::]:4500              *:*                                                
+  UDP    [::]:5353              *:*                                                
+  UDP    [::]:5353              *:*                                                
+  UDP    [::]:5353              *:*                                                
+  UDP    [::]:5355              *:*                                                
+  UDP    [::]:53820             *:*                                                
+  UDP    [::]:61622             *:*                                                
+  UDP    [::]:64318             *:*                                                
+  UDP    [::1]:1900             *:*                                                
+  UDP    [::1]:51741            *:*                                                
+  UDP    [fe80::5efe:10.0.1.116%33]:54045  *:*                                                
+  UDP    [fe80::5efe:169.254.81.46%27]:54045  *:*                                                
+  UDP    [fe80::5efe:192.168.56.1%22]:54045  *:*                                                
+  UDP    [fe80::44c4:8f08:d548:465c%23]:546  *:*                                                
+  UDP    [fe80::44c4:8f08:d548:465c%23]:1900  *:*                                                
+  UDP    [fe80::44c4:8f08:d548:465c%23]:51740  *:*                                                
+  UDP    [fe80::44c4:8f08:d548:465c%23]:54045  *:*                                                
+  UDP    [fe80::70de:1e44:a229:512e%20]:546  *:*                                                
+  UDP    [fe80::70de:1e44:a229:512e%20]:1900  *:*                                                
+  UDP    [fe80::70de:1e44:a229:512e%20]:5353  *:*                                                
+  UDP    [fe80::70de:1e44:a229:512e%20]:5353  *:*                                                
+  UDP    [fe80::70de:1e44:a229:512e%20]:5353  *:*                                                
+  UDP    [fe80::70de:1e44:a229:512e%20]:51739  *:*                                                
+  UDP    [fe80::70de:1e44:a229:512e%20]:54045  *:*                                                
+  UDP    [fe80::a135:cfa9:264f:f4ad%3]:54045  *:*                                                
+  UDP    [fe80::d9ae:b741:cd53:8d53%29]:546  *:*                                                
+  UDP    [fe80::d9ae:b741:cd53:8d53%29]:1900  *:*                                                
+  UDP    [fe80::d9ae:b741:cd53:8d53%29]:51738  *:*                                                
+  UDP    [fe80::d9ae:b741:cd53:8d53%29]:54045  *:*                                                

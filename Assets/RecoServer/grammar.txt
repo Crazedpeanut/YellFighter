@@ -1,0 +1,10 @@
+# comment
+#E finish
+#I 127.0.0.1
+#P 26000
+#V 70
+finish
+jump
+punch
+kick
+fire ball

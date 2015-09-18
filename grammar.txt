@@ -1,0 +1,14 @@
+# comment
+#I 127.0.0.1
+#P 26000
+#V 70
+jump
+punch
+kick
+fire ball
+duck
+jump forward
+jump back
+block
+left
+right
